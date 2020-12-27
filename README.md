@@ -6,7 +6,8 @@ Datasets:
 
 The input folder structure should be as in the screen shots below:
 
-   input   
+   input 
+   
     -test
        -spam
        -ham
