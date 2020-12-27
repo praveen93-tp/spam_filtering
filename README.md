@@ -4,9 +4,8 @@ Datasets:
  https://www.kaggle.com/wcukierski/enron-email-dataset
  
 
-The input folder structure should be as in the screen shots below:
+The input folder structure should be as in the screen shots below
 
-  -input 
     -test
        -spam
        -ham
