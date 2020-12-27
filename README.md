@@ -6,12 +6,19 @@ Datasets:
 
 The input folder structure should be as in the screen shots below:
    input
+   
     -test
+    
        -spam
+       
        -ham
+       
     -train
+    
        -spam
+       
        -ham
+       
        
 Need to give path till “\input\train” or “\input\test”
 
